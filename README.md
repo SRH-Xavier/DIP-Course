@@ -4,7 +4,7 @@
 **2020/9/30**
 
 
-The content of lesson 1:
+The content of lesson one:
 
 
 1.RGB three-channel separation
