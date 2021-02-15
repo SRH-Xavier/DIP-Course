@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RotateZoom", "RotateZoom\RotateZoom.vcxproj", "{0ABAB737-47B0-4390-808E-4A36CE8D60C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ABAB737-47B0-4390-808E-4A36CE8D60C4}.Debug|x64.ActiveCfg = Debug|x64
+		{0ABAB737-47B0-4390-808E-4A36CE8D60C4}.Debug|x64.Build.0 = Debug|x64
+		{0ABAB737-47B0-4390-808E-4A36CE8D60C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{0ABAB737-47B0-4390-808E-4A36CE8D60C4}.Debug|x86.Build.0 = Debug|Win32
+		{0ABAB737-47B0-4390-808E-4A36CE8D60C4}.Release|x64.ActiveCfg = Release|x64
+		{0ABAB737-47B0-4390-808E-4A36CE8D60C4}.Release|x64.Build.0 = Release|x64
+		{0ABAB737-47B0-4390-808E-4A36CE8D60C4}.Release|x86.ActiveCfg = Release|Win32
+		{0ABAB737-47B0-4390-808E-4A36CE8D60C4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58A89781-0A0E-4809-9283-5374513F8FD6}
+	EndGlobalSection
+EndGlobal
