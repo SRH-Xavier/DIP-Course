@@ -19,7 +19,7 @@ The content of lesson three:
 4.Clip Counting
 
 
-第一节课内容：
+第三节课内容：
 
 
 1.图像形态学，包括腐蚀、膨胀等操作。
