@@ -1,13 +1,41 @@
 # DIP-Course
-Digital Image Processing Course for the First Semester of the Third Year in HDU.
-
-The program is for the course. Each branch contains a content requirement for the course.
 
 
-The recognized images are from the network. If there is infringement, please contact me.
+**2020/11/4**
 
 
-杭电大三上学期数字图像处理课程学习内容，该项目只针对该课程。
+The content of lesson four:
 
 
-每条分支内包含一节课程的学习内容。用于图像识别的图片来源于网络，侵删。
+1.Canny operators and overloaded functions
+
+
+2.Rotation and scaling
+
+
+3.Affine transformation
+
+
+4.Projection transformation
+
+
+5.Image correcting
+
+
+第一节课内容：
+
+
+1.Canny算子、重载函数
+
+
+2.旋转及缩放
+
+
+3.仿射变换
+
+
+4.投影变换
+
+
+5.图像矫正
+
