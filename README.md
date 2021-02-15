@@ -17,7 +17,7 @@ The content of lesson six:
 
 
 
-第一节课内容：
+第六节课内容：
 
 
 1.不自主裁剪图像旋转
