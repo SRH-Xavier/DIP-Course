@@ -22,7 +22,7 @@ The content of lesson five:
 5.Image correcting
 
 
-第一节课内容：
+第五节课内容：
 
 
 1.Canny算子、重载函数
