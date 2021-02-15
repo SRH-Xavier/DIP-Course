@@ -7,10 +7,10 @@
 The content of lesson twelve:
 
 
-1.Background subtraction
+1.Template matching
 
 
-2.Gaussian modeling and background subtraction
+2.Tracking location
 
 
 第十二节课内容：
