@@ -1,13 +1,34 @@
 # DIP-Course
-Digital Image Processing Course for the First Semester of the Third Year in HDU.
-
-The program is for the course. Each branch contains a content requirement for the course.
 
 
-The recognized images are from the network. If there is infringement, please contact me.
+**2020/10/21**
 
 
-杭电大三上学期数字图像处理课程学习内容，该项目只针对该课程。
+The content of lesson three:
 
 
-每条分支内包含一节课程的学习内容。用于图像识别的图片来源于网络，侵删。
+1.Image Morphology
+
+
+2.Connected Domain Marker
+
+
+3.Dot Counting
+
+
+4.Clip Counting
+
+
+第一节课内容：
+
+
+1.图像形态学，包括腐蚀、膨胀等操作。
+
+
+2.连通域标记
+
+
+3.计算圆点个数
+
+
+4.回形针计数
