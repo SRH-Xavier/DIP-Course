@@ -17,7 +17,7 @@ The content of lesson seven:
 
 
 
-第一节课内容：
+第七节课内容：
 
 
 1.寻找车轮的轮廓
